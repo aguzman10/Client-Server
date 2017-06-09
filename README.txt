@@ -9,3 +9,6 @@ How to run on command line:
 javac Server.java Client.java
 java Server
 java Client
+
+***NOTE***
+Although you may compile javac Server.java Client.java on the same command prompt window, you must run java Server and java Client on different command prompt windows for entire client-server program may work correctly.
